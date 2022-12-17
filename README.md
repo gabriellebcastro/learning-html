@@ -1,2 +1,2 @@
 # learning-html
- some basic html/css studies.
+ Some basic html/css studies.
